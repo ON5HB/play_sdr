@@ -10,3 +10,6 @@ service based API (3.0)
 
 If you would like to make contributions to this area, please send an
 email to software@sdrplay.com
+
+For PhantomSDR use the play_sdr unless you have a device that is only supported by API 3.xx, then you could try the sample version.
+Bas ON5HB.
