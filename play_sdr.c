@@ -445,7 +445,7 @@ int main(int argc, char **argv)
         fprintf(stderr, "\n");
     }
 	while (!do_exit) {
-        if (verbose < 1) {
+        if (verbose > 0) {
             fprintf(stderr,".");
         }
         sleep(1);
